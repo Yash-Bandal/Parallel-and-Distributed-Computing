@@ -1,3 +1,7 @@
+```bash
+ mingw-get install pthreads-w32
+```
+
 ## Program 1
 ```c
 #include<stdio.h>
