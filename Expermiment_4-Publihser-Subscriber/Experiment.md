@@ -1,8 +1,9 @@
 ## Objective
-To demonstrate message-oriented communication between two Java programs using a Message Broker (Apache ActiveMQ) based on JMS (Java Message Service).
+To demonstrate message-oriented communication between two Java programs using a Message Broker (Apache ActiveMQ) based on JMS (Java Message Service).\
 You will create:
 - Publisher (Producer) → sends messages
 - Subscriber (Consumer) → receives messages
+
 Messages don’t go directly from Publisher → Subscriber.
 Instead, they go through  **ActiveMQ Broker**.
 
