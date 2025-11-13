@@ -3,6 +3,8 @@ python -m venv myenv
 
 myenv\Scripts\activate
 
+    source venv/bin/activate
+
 pip install flask requests
 ```
 
